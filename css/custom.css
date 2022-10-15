@@ -1,0 +1,41 @@
+.badge-custom {
+  border-radius: 0 0.25rem 0 0.25rem;
+  padding: 0.4rem 1rem;
+}
+
+.rent-price {
+  color: #b4b4b4;
+}
+
+.rent-price span {
+  font-size: 1.7rem;
+  color: #364d59;
+}
+
+.card-body-custom {
+  padding-top: 0;
+  padding-bottom: 0;
+}
+
+.mobil-info-list ul {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  row-gap: 0.5rem;
+  justify-self: center;
+}
+
+.mobil-info-list ul li {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  column-gap: 0.4rem;
+}
+
+.mobil-info-list ul i {
+  color: salmon;
+  font-size: 1.2rem;
+}
+
+.nav-link {
+  font-size: 1.2rem;
+}
